@@ -1,3 +1,14 @@
+Object-oriented
+Portable
+Robust
+Secure
+Multithreaded
+Interpreted
+High-performance
+Distributed
+Dynamic
+Platform-independent
+
 //Solid rectangle
 /*public class Patterns {
 
