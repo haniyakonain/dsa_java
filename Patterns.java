@@ -1,13 +1,13 @@
-Object-oriented
-Portable
-Robust
-Secure
-Multithreaded
-Interpreted
-High-performance
-Distributed
-Dynamic
-Platform-independent
+Object-oriented <br>
+Portable<br>
+Robust<br>
+Secure<br>
+Multithreaded<br>
+Interpreted<br>
+High-performance<br>
+Distributed<br>
+Dynamic<br>
+Platform-independent<br>
 
 //Solid rectangle
 /*public class Patterns {
